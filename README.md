@@ -110,5 +110,5 @@ WHERE
 GROUP BY
     r.review_score;
     
-## Feel free to customize it further based on your specific project details and requirements.
+
 
